@@ -4,5 +4,6 @@
      $convValue = $value*$ration["$startUnit"]/$ration["$convUnit"];
 
     return $convValue;
+    // takhle je to správně
   }
  ?>
